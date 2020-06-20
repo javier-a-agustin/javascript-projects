@@ -1,1 +1,2 @@
-# javascript-projects
+# javascript-projects  
+Proyectos para practicar javascript
