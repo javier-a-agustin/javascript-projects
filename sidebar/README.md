@@ -1,0 +1,2 @@
+# Sidebar  
+Al precionar el boton de "menu" se despliega una sidebar. Al precionar nuevamente el boton de "menu" se cierra la sidebar. Tambien cuenta con un boton de cerrado, solo visible cuando la barra esta desplegada.
